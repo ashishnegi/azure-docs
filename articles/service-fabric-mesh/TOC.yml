@@ -53,7 +53,7 @@
   - name: Set up Service Fabric Mesh CLI
     href: service-fabric-mesh-howto-setup-cli.md
   - name: Store state with Service Fabric Reliable Disk
-    href: service-fabric-mesh-howto-deploy-app-reliabledisk-volume.md
+    href: service-fabric-mesh-howto-deploy-app-reliable-volume.md
   - name: Store state with Azure Files volume
     href: service-fabric-mesh-howto-deploy-app-azurefiles-volume.md
   - name: Independently scale microservices in an app

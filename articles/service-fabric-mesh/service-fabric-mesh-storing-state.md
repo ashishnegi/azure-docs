@@ -20,10 +20,10 @@ With Service Fabric Mesh, you can easily deploy a new application and connect it
   * Reliable Collections (not available in preview)
     * A library which implements data structures like queues and key-value pairs to use in the service
     * This gives the easiest and fastest way to interact with data, while providing easy partition routing in combination with Intelligent Routing in Service Fabric Mesh
-  * Service Fabric volume driver (not available in preview)
+  * Service Fabric Reliable Volume disk (not available in preview)
     * A docker volume driver to mount a local volume to a container
     * This gives you the ultimate flexibility in storing data locally, through any API, which supports file storage.
-    * [How-to guide: Deploy an app with Reliable Disk volume](service-fabric-mesh-howto-deploy-app-reliabledisk-volume.md)
+    * [How-to guide: Deploy an app with Reliable Volume](service-fabric-mesh-howto-deploy-app-reliable-volume.md)
 
 * Remote storage
   * Azure Files volume driver
